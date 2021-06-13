@@ -1,2 +1,1 @@
-echo "Holberton"
-echo "School"
+#!/bin/bash echo "School"
